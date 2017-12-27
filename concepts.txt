@@ -1,0 +1,6 @@
+1-Qu'est-ce qu'un commit
+
+
+
+2-A quoi sert la commande git log
+
