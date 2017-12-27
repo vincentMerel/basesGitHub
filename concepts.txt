@@ -1,6 +1,14 @@
 1-Qu'est-ce qu'un commit
 
-
+Selon moi, un commit représente l'action d'enregistrer une version d'un projet qui se situe dans un réperoire donné.
+Un commit comporte toujours un commentaire qui doit décrire de manière précise quelles sont les modifications qui ont été apportées au projet depuis le dernier commit.
+Il est utile d'utiliser des commit lors d'un travail collaboratif afin de savoir quelles modifications ont été apportées au projet et à quel moment.
 
 2-A quoi sert la commande git log
 
+"git log" justement est une commande qui permet de visualiser l'ensemble des commit qui ont été effectués.
+On visualise donc pour l'ensemble des commits les informations suivantes :
+- l'identifiant SHA
+- le nom de l'auteur
+- la date du commit
+- le commentaire associé au commit
